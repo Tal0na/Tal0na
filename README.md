@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talona</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate front-end developer from Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [https://talona.vercel.app/](https://talona.vercel.app/)
 
