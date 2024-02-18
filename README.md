@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/talonaa_" target="blank"><img src="https://img.shields.io/twitter/follow/talonaa_?logo=twitter&style=for-the-badge" alt="talonaa_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://talona.vercel.app/](https://talona.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)
 
 - 💬 Ask me about **react**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/talonaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talonaa_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/talona-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talona-costa" height="30" width="40" /></a>
-<a href="https://discord.gg/talona_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="talona_" height="30" width="40" /></a>
+<a href="https://discord.gg/f5dBAWrXkB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="talona_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
