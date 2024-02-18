@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **talonacontato@gmail.com**
 
