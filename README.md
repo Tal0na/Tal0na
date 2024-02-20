@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **talonacontato@gmail.com**
 
-- ⚡ Fun fact **I like Flowers**
+- 🌺 Fun fact **I like Flowers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
