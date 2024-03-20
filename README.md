@@ -20,15 +20,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
+<p align="left">
+  <a href="https://www.talonacosta.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show&hide_border=false&count_private=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false">		  
+  </a>
+</p>
 
-![Estatísticas do Talonacosta](https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true) ![Sequência de Contribuições do Talonacosta](https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false)
+<br>
 
-</div>
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
+  </a>
+</p>
 
-<div align="center">
 
-![Principais Linguagens do Talonacosta](https://github-readme-stats.vercel.app/api/top-langs/?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
-
-</div>
+<p align="center"><img src="https://profile-counter.glitch.me/{Talonacosta}/count.svg"></p>
 
