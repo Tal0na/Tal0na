@@ -20,9 +20,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Talonacosta's Stats](https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
 
-![Talonacosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false)
+![Estatísticas do Talonacosta](https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true) ![Sequência de Contribuições do Talonacosta](https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false)
 
-![Talonacosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+</div>
+
+<div align="center">
+
+![Principais Linguagens do Talonacosta](https://github-readme-stats.vercel.app/api/top-langs/?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
+</div>
 
