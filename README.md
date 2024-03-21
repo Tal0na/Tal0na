@@ -27,7 +27,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.talonacosta.com/">
+  <a href="[https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show&hide_border=false&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false">		  
   </a>
@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <a href="http://torrinleonard.com/">
+  <a href="[https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
   </a>
 </p>
