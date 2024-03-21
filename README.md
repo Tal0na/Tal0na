@@ -1,13 +1,40 @@
 <h1 align="center">Hi 👋, I'm Talona</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)
+```javascript
+const Talona = {
+    nationality: "Brazilian",
+    pronouns: "He" | "Him",
+    favoriteBand: "Polyphia",
+    code: {
+        main: [Javascript, HTML, CSS],
+        tools: Node,
+        learning: [Python, React, java],
+    },
+}
 
-- 💬 Ask me about **anything**
+const Languages = {
+    fluent: "Portuguese, English",
+    advanced: "Spanish"
+}
 
-- 📫 How to reach me **talonacontato@gmail.com**
+const projects = {
+    available at: "[https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)
+",
+}
 
-- 🌺 Fun fact **I like Flowers**
+const How to reach me = {
+    Gmail: "**talonacontato@gmail.com**",
+}
+
+const Fun fact = {
+    I_like: "Flowers",
+}
+```
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 
