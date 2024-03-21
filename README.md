@@ -49,3 +49,19 @@ Minha jornada no mundo da programação começou com uma fascinação pela capac
 Além do desenvolvimento de software, tenho um interesse especial em compartilhar meu conhecimento com os outros. Seja através de mentorias, escrevendo artigos ou participando de comunidades de desenvolvedores, estou sempre procurando maneiras de contribuir para a comunidade e ajudar outros aspirantes a desenvolvedores a alcançar seu potencial máximo.
 
 Quando não estou codificando, você pode me encontrar explorando a natureza, praticando esportes ao ar livre ou simplesmente relaxando com um bom livro. Acredito na importância de equilibrar trabalho e lazer para uma vida saudável e gratificante. Estou sempre aberto a novas conexões e oportunidades de colaboração, então não hesite em entrar em contato!
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
