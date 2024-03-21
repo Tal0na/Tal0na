@@ -24,6 +24,8 @@ const projects = {
 
 const How_to_reach_me = {
     G_Mail: "talonacontato@gmail.com",
+    Twitter: "https://twitter.com/talonaa_",
+    Linkedin: "https://linkedin.com/in/talona-costa"
 }
 
 const Fun_fact = {
