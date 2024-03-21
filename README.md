@@ -7,9 +7,9 @@ const Talona = {
     pronouns: "He" | "Him",
     favoriteBand: "Polyphia",
     code: {
-        main: [Javascript, HTML, CSS],
+        main: [Javascript, HTML, React, CSS , TailWind],
         tools: Node,
-        learning: [Python, React, java],
+        learning: [Python, java],
     },
 }
 
@@ -19,14 +19,14 @@ const Languages = {
 }
 
 const projects = {
-    available at: "https://talonacosta.vercel.app/",
+    available_at: "https://talonacosta.vercel.app/",
 }
 
-const How to reach me = {
+const How_to_reach_me = {
     Gmail: "talonacontato@gmail.com",
 }
 
-const Fun fact = {
+const Fun_fact = {
     I_like: "Flowers",
 }
 ```
