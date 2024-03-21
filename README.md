@@ -7,7 +7,7 @@ const Talona = {
     pronouns: "He" | "Him",
     favoriteBand: "Polyphia",
     code: {
-        main: [Javascript, HTML, React, CSS ,TailWind],
+        main: [Javascript, HTML, React, CSS, TailWind],
         tools: Node,
         learning: [Python, Java , DataBase],
     },
