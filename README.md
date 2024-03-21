@@ -12,13 +12,19 @@
 - 🌺 Fun fact **I like Flowers**
 
 <h3 align="left">Connect with me:</h3>
+
+
+
 <p align="left">
 <a href="https://twitter.com/talonaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talonaa_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/talona-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talona-costa" height="30" width="40" /></a>
 <a href="https://discord.gg/f5dBAWrXkB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="talona_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
 
 <p align="left">
   <a href="https://www.talonacosta.com/">
