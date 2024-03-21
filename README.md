@@ -19,8 +19,7 @@ const Languages = {
 }
 
 const projects = {
-    available at: "[https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)
-",
+    available at: "https://talonacosta.vercel.app/",
 }
 
 const How to reach me = {
