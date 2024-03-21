@@ -9,7 +9,7 @@ const Talona = {
     code: {
         main: [Javascript, HTML, React, CSS , TailWind],
         tools: Node,
-        learning: [Python, java],
+        learning: [Python, java ,],
     },
 }
 
@@ -19,21 +19,17 @@ const Languages = {
 }
 
 const projects = {
-    Available_at: "https://talonacosta.vercel.app/",
+    Available_At: "https://talonacosta.vercel.app/",
 }
 
 const How_to_reach_me = {
-    Gmail: "talonacontato@gmail.com",
+    G_Mail: "talonacontato@gmail.com",
 }
 
 const Fun_fact = {
-    I_like: "Flowers",
+    I_Like: "Flowers",
 }
 ```
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 
