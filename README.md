@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://www.talonacosta.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show&hide_border=false&count_private=true">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show&hide_border=false&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false">		  
   </a>
 </p>
