@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talona</h1>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=864CF7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;+I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://git.io/typing-svg)
 <h3 align="center">A passionate developer from Brazil</h3>
 
 ```javascript
