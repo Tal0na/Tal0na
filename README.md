@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talona</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-
-
 - 👨‍💻 All of my projects are available at [https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)
 
 - 💬 Ask me about **anything**
@@ -12,8 +10,6 @@
 - 🌺 Fun fact **I like Flowers**
 
 <h3 align="left">Connect with me:</h3>
-
-
 
 <p align="left">
 <a href="https://twitter.com/talonaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talonaa_" height="30" width="40" /></a>
