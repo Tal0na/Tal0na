@@ -24,7 +24,7 @@ const projects = {
 }
 
 const How to reach me = {
-    Gmail: "**talonacontato@gmail.com**",
+    Gmail: "talonacontato@gmail.com",
 }
 
 const Fun fact = {
