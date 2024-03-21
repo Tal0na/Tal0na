@@ -61,10 +61,18 @@ const Fun_fact = {
   </a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Talonacosta&bg_color=000000&color=ffffff&line=aa55ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Talonacosta}/count.svg"></p>
 
+
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+
+
+
 
 Olá! Sou Talona, um desenvolvedor apaixonado baseado no Brasil, sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades. Com uma sólida formação em ciência da computação e anos de experiência prática, estou constantemente mergulhando em projetos criativos e inovadores que me permitem explorar meu potencial ao máximo.
 
