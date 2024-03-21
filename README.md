@@ -19,7 +19,7 @@ const Languages = {
 }
 
 const projects = {
-    available_at: "https://talonacosta.vercel.app/",
+    Available_at: "https://talonacosta.vercel.app/",
 }
 
 const How_to_reach_me = {
