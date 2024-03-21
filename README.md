@@ -44,3 +44,12 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Talonacosta}/count.svg"></p>
 
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+Olá! Sou Talona, um desenvolvedor apaixonado baseado no Brasil, sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades. Com uma sólida formação em ciência da computação e anos de experiência prática, estou constantemente mergulhando em projetos criativos e inovadores que me permitem explorar meu potencial ao máximo.
+
+Minha jornada no mundo da programação começou com uma fascinação pela capacidade de criar soluções práticas e eficientes para problemas complexos. Ao longo dos anos, desenvolvi habilidades em uma variedade de linguagens e tecnologias, desde linguagens de programação como JavaScript e Python até frameworks modernos como React e Node.js. Estou sempre buscando aprender mais e me manter atualizado com as últimas tendências e práticas da indústria.
+
+Além do desenvolvimento de software, tenho um interesse especial em compartilhar meu conhecimento com os outros. Seja através de mentorias, escrevendo artigos ou participando de comunidades de desenvolvedores, estou sempre procurando maneiras de contribuir para a comunidade e ajudar outros aspirantes a desenvolvedores a alcançar seu potencial máximo.
+
+Quando não estou codificando, você pode me encontrar explorando a natureza, praticando esportes ao ar livre ou simplesmente relaxando com um bom livro. Acredito na importância de equilibrar trabalho e lazer para uma vida saudável e gratificante. Estou sempre aberto a novas conexões e oportunidades de colaboração, então não hesite em entrar em contato!
