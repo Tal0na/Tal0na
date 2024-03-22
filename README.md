@@ -82,21 +82,7 @@ Além do desenvolvimento de software, tenho um interesse especial em compartilha
 
 Quando não estou codificando, você pode me encontrar explorando a natureza, praticando esportes ao ar livre ou simplesmente relaxando com um bom livro. Acredito na importância de equilibrar trabalho e lazer para uma vida saudável e gratificante. Estou sempre aberto a novas conexões e oportunidades de colaboração, então não hesite em entrar em contato!
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<br>
 
 ![Talona's github activity graph](https://ssr-contributions-svg.vercel.app/_/Talonacosta?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
 
