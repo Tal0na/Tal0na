@@ -63,7 +63,7 @@ const Fun_fact = {
 
 [![Talonacosta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Talonacosta&bg_color=000000&color=ffffff&line=aa55ff&point=ffffff&area=true&hide_border=true)
 
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTalonacosta&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visitis%3A&ta=" alt="visits"></p>
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTalonacosta&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
 
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
