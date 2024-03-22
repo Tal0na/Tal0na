@@ -61,9 +61,7 @@ const Fun_fact = {
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Talonacosta&bg_color=000000&color=ffffff&line=aa55ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![Talonacosta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Talonacosta&bg_color=000000&color=ffffff&line=aa55ff&point=ffffff&area=true&hide_border=true)
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Talonacosta}/count.svg"></p>
 
