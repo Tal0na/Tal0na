@@ -27,7 +27,7 @@ const Fun_fact = {
 <a href="mailto:talonacontato@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Twitter Icon" />
 </a>
-<a href="talonacontato@gmail.com" target="_blank">
+<a href="https://twitter.com/Talonaa_" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://linkedin.com/in/talona-costa" target="_blank">
