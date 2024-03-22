@@ -45,20 +45,27 @@ const Fun_fact = {
   </a>
 
   <a href="https://discord.gg/f5dBAWrXkB">
-    <img src="https://skillicons.dev/icons?i=Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
     
 </p>
 
 <h3 align="left"> Skiils </h3>
 
-<p align="left">
+<p align="center">
     web
     <p align="center">
   <a href="https://talonacosta.vercel.app/Link"> 
     <img src="https://skillicons.dev/icons?i=js,html,css,figma,git,github"/>
   </a>
-        </p>
+ </p>
+ <p align="center">
+ Others
+ <p align="center">
+  <a href="https://talonacosta.vercel.app/Link"> 
+    <img src="https://skillicons.dev/icons?i=figma,git,github"/>
+  </a>
+     </p>
 </p>
 
 
