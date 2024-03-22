@@ -5,12 +5,7 @@
 const Talona = {
     nationality: "Brazilian",
     pronouns: "He" | "Him",
-    favoriteBand: "Polyphia",
-    code: {
-        main: [Javascript, HTML, React, CSS, TailWind],
-        tools: Node,
-        learning: [Python, Java , DataBase],
-    },
+    favoriteBand: "Polyphia",  
 }
 
 const Languages = {
@@ -57,17 +52,26 @@ const Fun_fact = {
 <h3 align="left"> Skiils </h3>
 
 <p align="center">
+ Progame Languages
+    <p align="center">
+     <a href="https://talonacosta.vercel.app/Link"> 
+    <img src="https://skillicons.dev/icons?i=js,ts,md,java,python"/>
+  </a>
+   </p>
+</p>
+<p align="center">
     web
     <p align="center">
   <a href="https://talonacosta.vercel.app/Link"> 
-    <img src="https://skillicons.dev/icons?i=js,html,css"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,npm,react,vercel"/>
   </a>
  </p>
+   
  <p align="center">
  Others
  <p align="center">
   <a href="https://talonacosta.vercel.app/Link"> 
-    <img src="https://skillicons.dev/icons?i=figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,figma,git,github,obsidian,notion"/>
   </a>
      </p>
 </p>
