@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://git.io/typing-svg) 
 
 
 ```javascript
@@ -63,7 +63,7 @@ const Fun_fact = {
 
 [![Talonacosta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Talonacosta&bg_color=000000&color=ffffff&line=aa55ff&point=ffffff&area=true&hide_border=true)
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Talonacosta}/count.svg"></p>
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTalonacosta&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visitis%3A&ta=" alt="visits"></p>
 
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
