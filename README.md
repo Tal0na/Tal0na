@@ -24,29 +24,22 @@ const Fun_fact = {
 
 <h3 align="left">Connect with me:</h3>
 
-
-
 <p align="center">
-  <a href="talonacontato@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-<a href="talonacontato@gmail.com">
+<a href="mailto:talonacontato@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Twitter Icon" />
+</a>
+<a href="talonacontato@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-
-  <a href="https://linkedin.com/in/talona-costa">
+  <a href="https://linkedin.com/in/talona-costa" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="https://discord.gg/f5dBAWrXkB">
+  <a href="https://discord.gg/f5dBAWrXkB" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-
-   <a href="https://www.instagram.com/talonaa_/">
+   <a href="https://www.instagram.com/talonaa_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-    
 </p>
 
 <h3 align="left"> Skiils </h3>
@@ -54,11 +47,12 @@ const Fun_fact = {
 <p align="center">
  Progame Languages
     <p align="center">
-     <a href="https://talonacosta.vercel.app/Link"> 
+     <a href="https://talonacosta.vercel.app/Link" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=js,ts,md,java,python"/>
   </a>
    </p>
 </p>
+
 <p align="center">
     web
     <p align="center">
@@ -82,7 +76,7 @@ const Fun_fact = {
 <br/>
 
 <p align="left">
-  <a href="[https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)">
+  <a href="https://talonacosta.vercel.app/">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show&hide_border=false&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false">		  
   </a>
