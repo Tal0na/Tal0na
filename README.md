@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://talonacosta.vercel.app/Link) 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://talonacosta.vercel.app/Links) 
 
 ```javascript
 const Talona = {
@@ -75,7 +75,7 @@ const Fun_fact = {
 <br/>
 
 <p align="left">
-  <a href="https://talonacosta.vercel.app/">
+  <a href="https://talonacosta.vercel.app/" target="_blank>
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show&hide_border=false&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false">		  
   </a>
@@ -84,7 +84,7 @@ const Fun_fact = {
 <br>
 
 <p align="center">
-  <a href="[https://talonacosta.vercel.app/](https://talonacosta.vercel.app/)">
+  <a href="https://talonacosta.vercel.app">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
   </a>
 </p>
