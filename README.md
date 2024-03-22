@@ -47,6 +47,10 @@ const Fun_fact = {
   <a href="https://discord.gg/f5dBAWrXkB">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+
+   <a href="https://www.instagram.com/talonaa_/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
     
 </p>
 
@@ -56,7 +60,7 @@ const Fun_fact = {
     web
     <p align="center">
   <a href="https://talonacosta.vercel.app/Link"> 
-    <img src="https://skillicons.dev/icons?i=js,html,css,figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css"/>
   </a>
  </p>
  <p align="center">
