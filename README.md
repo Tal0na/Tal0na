@@ -22,12 +22,6 @@ const projects = {
     Available_At: "https://talonacosta.vercel.app/",
 }
 
-const How_to_reach_me = {
-    G_Mail: "talonacontato@gmail.com",
-    Twitter: "https://twitter.com/talonaa_",
-    Linkedin: "https://linkedin.com/in/talona-costa"
-}
-
 const Fun_fact = {
     I_Like: "Flowers",
 }
@@ -35,10 +29,34 @@ const Fun_fact = {
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://twitter.com/talonaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talonaa_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/talona-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talona-costa" height="30" width="40" /></a>
-<a href="https://discord.gg/f5dBAWrXkB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="talona_" height="30" width="40" /></a>
+
+
+<p align="center">
+  <a href="talonacontato@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+<a href="talonacontato@gmail.com">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
+  <a href="https://linkedin.com/in/talona-costa">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://discord.gg/f5dBAWrXkB">
+    <img src="https://skillicons.dev/icons?i=Discord" />
+  </a>
+    
+</p>
+
+<h3 align="left"> Skiils </h3>
+
+<p align="center">
+  <a href="https://talonacosta.vercel.app/Link">
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,git,github"/>
+      
+  </a>
 </p>
 
 
