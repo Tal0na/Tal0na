@@ -52,11 +52,13 @@ const Fun_fact = {
 
 <h3 align="left"> Skiils </h3>
 
-<p align="center">
-  <a href="https://talonacosta.vercel.app/Link">
+<p align="left">
+    web
+    <p align="center">
+  <a href="https://talonacosta.vercel.app/Link"> 
     <img src="https://skillicons.dev/icons?i=js,html,css,figma,git,github"/>
-      
   </a>
+        </p>
 </p>
 
 
