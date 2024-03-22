@@ -63,6 +63,8 @@ const Fun_fact = {
 
 [![Talonacosta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Talonacosta&bg_color=000000&color=ffffff&line=aa55ff&point=ffffff&area=true&hide_border=true)
 
+<p align="centre"><b>Visitors Count</b></p> 
+
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTalonacosta&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
 
 
