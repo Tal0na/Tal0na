@@ -4,7 +4,7 @@
 const Talona = {
     nationality: "Brazilian",
     pronouns: "He" | "Him",
-    favoriteBand: "Polyphia",  
+    favoriteBand: "Jacob Collier",  
 }
 
 const Languages = {
