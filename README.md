@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/149351223?v=4"  />
+<img align="right" height="150" src="https://talonacosta.vercel.app/svgs/logolight.svg"  />
 
 ##
 
