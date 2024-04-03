@@ -1,6 +1,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://talonacosta.vercel.app/Links) 
 
-# Talona Costa's Profile
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Talonacosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
