@@ -73,22 +73,15 @@
 
 ###
 
-
+<div align="center">
 
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTalonacosta&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
 
-
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-
-
-Olá! Sou Talona, um desenvolvedor apaixonado baseado no Brasil, sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades. Com uma sólida formação em ciência da computação e anos de experiência prática, estou constantemente mergulhando em projetos criativos e inovadores que me permitem explorar meu potencial ao máximo.
-
-Minha jornada no mundo da programação começou com uma fascinação pela capacidade de criar soluções práticas e eficientes para problemas complexos. Ao longo dos anos, desenvolvi habilidades em uma variedade de linguagens e tecnologias, desde linguagens de programação como JavaScript e Python até frameworks modernos como React e Node.js. Estou sempre buscando aprender mais e me manter atualizado com as últimas tendências e práticas da indústria.
-
-Além do desenvolvimento de software, tenho um interesse especial em compartilhar meu conhecimento com os outros. Seja através de mentorias, escrevendo artigos ou participando de comunidades de desenvolvedores, estou sempre procurando maneiras de contribuir para a comunidade e ajudar outros aspirantes a desenvolvedores a alcançar seu potencial máximo.
-
-Quando não estou codificando, você pode me encontrar explorando a natureza, praticando esportes ao ar livre ou simplesmente relaxando com um bom livro. Acredito na importância de equilibrar trabalho e lazer para uma vida saudável e gratificante. Estou sempre aberto a novas conexões e oportunidades de colaboração, então não hesite em entrar em contato!
-
-<br>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12184323470&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12184323470&redirect=true)
+
+</div>
+
+
+![Descrição da imagem](https://camo.githubusercontent.com/7d16404fc41d7d677a9be73ce343352dce8bcb2f0ba5af88bb6273a53d35e132/68747470733a2f2f7373722d636f6e747269627574696f6e732d7376672e76657263656c2e6170702f5f2f54616c6f6e61636f7374613f63686172743d3364626172266761703d302e36267363616c653d3226666c617474656e3d3226616e696d6174696f6e3d7761766526616e696d6174696f6e5f6475726174696f6e3d3126616e696d6174696f6e5f64656c61793d302e303526616e696d6174696f6e5f616d706c69747564653d323026616e696d6174696f6e5f6672657175656e63793d302e3526616e696d6174696f6e5f776176655f63656e7465723d31305f3026666f726d61743d737667267765656b733d3330267468656d653d707572706c65266461726b3d74727565)
+
+
