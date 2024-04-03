@@ -2,44 +2,14 @@
 
 # Talona Costa's Profile
 
-## Basic Information
-- **Nationality:** Brazilian
-- **Pronouns:** He / Him
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Talonacosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Talonacosta&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-## Language Skills
-- **Fluent:** Portuguese, English
-- **Advanced:** Spanish
+###
 
-## Favorite Band
-- **Band:** Jacob Collier
-
-## Projects
-- **Available at:** [Talona's Projects](https://talonacosta.vercel.app/)
-
-## Fun Fact
-- **Interest:** Flowers
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="center">
-<a href="mailto:talonacontato@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Twitter Icon" />
-</a>
-<a href="https://twitter.com/Talonaa_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://linkedin.com/in/talona-costa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://discord.gg/f5dBAWrXkB" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-   <a href="https://www.instagram.com/talonaa_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
-<h3 align="left"> Skiils </h3>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/149351223?v=4"  />
 
 ###
 
@@ -60,7 +30,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
   <img width="12" />
@@ -68,37 +42,37 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###
 
-
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
-
-<p align="left">
-  <a href="https://talonacosta.vercel.app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Talonacosta&theme=midnight-purple&show&hide_border=false&count_private=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talonacosta&theme=midnight-purple&hide_border=false">		  
+<div align="left">
+  <a href="https://talonacosta.vercel.app/Links" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://talonacosta.vercel.app">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talonacosta&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
+  <a href="https://twitter.com/Talonaa_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-</p>
+  <a href="https://www.instagram.com/talonaa_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/talona-costa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://discord.gg/f5dBAWrXkB" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+</div>
 
-![Talonacosta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Talonacosta&bg_color=000000&color=ffffff&line=aa55ff&point=ffffff&area=true&hide_border=true)
+###
 
-<p align="center" >
-    Visitors Count
-
-</p> 
 
 
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTalonacosta&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
