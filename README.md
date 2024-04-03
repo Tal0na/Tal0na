@@ -1,25 +1,23 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://talonacosta.vercel.app/Links) 
 
-```javascript
-const Talona = {
-    nationality: "Brazilian",
-    pronouns: "He" | "Him",
-    favoriteBand: "Jacob Collier",  
-}
+# Talona Costa's Profile
 
-const Languages = {
-    fluent: "Portuguese, English",
-    advanced: "Spanish"
-}
+## Basic Information
+- **Nationality:** Brazilian
+- **Pronouns:** He / Him
 
-const projects = {
-    Available_At: "https://talonacosta.vercel.app/",
-}
+## Language Skills
+- **Fluent:** Portuguese, English
+- **Advanced:** Spanish
 
-const Fun_fact = {
-    I_Like: "Flowers",
-}
-```
+## Favorite Band
+- **Band:** Jacob Collier
+
+## Projects
+- **Available at:** [Talona's Projects](https://talonacosta.vercel.app/)
+
+## Fun Fact
+- **Interest:** Flowers
 
 <h3 align="left">Connect with me:</h3>
 
