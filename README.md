@@ -8,12 +8,7 @@
 
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1012043502504386581/1225037386518630443/flor.png?ex=661fabf9&is=660d36f9&hm=dfd9ce91de4631ef0fb2ce337e1fca474ecf748cc79a87bb20e622ac2d451bb6&"  />
 
-<-- refazer -->
-
-<div align="left"> 
-  
- <a href="https://talonacosta.vercel.app/Links" target="_blank">
- </a>
+<a href="https://talonacosta.vercel.app/Links" target="_blank">Visit my website</a>
 
 </div>
 
