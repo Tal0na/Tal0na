@@ -87,13 +87,13 @@
 
 <div align="center">
 
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTalonacosta&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTal0na&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talonacosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Talonacosta&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tal0na&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tal0na&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 corrijia
