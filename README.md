@@ -98,7 +98,7 @@
 
 
 
-<a href="https://github.com/Tal0na">
+<a href="https://talonacosta.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true">
    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple&dark=false">
