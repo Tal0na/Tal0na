@@ -97,7 +97,22 @@
 </div>
 
 
-![git](https://camo.githubusercontent.com/7d16404fc41d7d677a9be73ce343352dce8bcb2f0ba5af88bb6273a53d35e132/68747470733a2f2f7373722d636f6e747269627574696f6e732d7376672e76657263656c2e6170702f5f2f54616c6f6e61636f7374613f63686172743d3364626172266761703d302e36267363616c653d3226666c617474656e3d3226616e696d6174696f6e3d7761766526616e696d6174696f6e5f6475726174696f6e3d3126616e696d6174696f6e5f64656c61793d302e303526616e696d6174696f6e5f616d706c69747564653d323026616e696d6174696f6e5f6672657175656e63793d302e3526616e696d6174696f6e5f776176655f63656e7465723d31305f3026666f726d61743d737667267765656b733d3330267468656d653d707572706c65266461726b3d74727565)
+
+<a href="https://github.com/Tal0na">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=truenimation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=truenimation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+  </picture>
+</a>
 
 
+
+<a href="https://github.com/Tal0na">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=0.6&scale=2&flatten=2&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=true&animation_amplitude=24&animation_frequency=0.1">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=true&animation_amplitude=24&animation_frequency=0.1">
+    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Tal0na?chart=3dbar&gap=1&scale=2&light=30&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=xml&weeks=40&theme=purple&dark=true&animation_amplitude=24&animation_frequency=0.1">
+  </picture>
+</a>
 
