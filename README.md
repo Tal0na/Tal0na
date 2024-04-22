@@ -81,7 +81,8 @@
 
 <div align="center">
   
-Playing on Spotify:
+<h3 color = EE82EE>Playing on Spotify: </h3>
+
   
 <a href="https://talonacosta.vercel.app/Links" target="_blank">
   
