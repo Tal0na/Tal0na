@@ -84,7 +84,11 @@ Playing on Spotify:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12184323470&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=8000ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12184323470&redirect=true)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12184323470)
 </div>
+
+
+
 
 ##
 
@@ -97,10 +101,10 @@ Playing on Spotify:
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=tal0na&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=midnight-purple&locale=pt-br&hide_border=t&order=1" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tal0na&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tal0na&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
+</div>
 ###
 
 
