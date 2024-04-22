@@ -78,6 +78,7 @@
 ###
 
 <div align="left">
+Playing on Spotify:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12184323470&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=8000ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12184323470&redirect=true)
 
