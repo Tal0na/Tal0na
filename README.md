@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 </div>
 
-###
+##
 
 <div align="center">
   
@@ -103,6 +103,9 @@
 ##
 
 <div align="center">
+
+<h3 color = EE82EE> Stats: </h3>
+
 
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTal0na&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
 
