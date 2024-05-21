@@ -2,14 +2,10 @@
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://talonacosta.vercel.app/Links) 
 
+## [Visit my Website🌺](https://talonacosta.vercel.app)
+
  </div> 
  
-# [Visit my Website🌺](https://talonacosta.vercel.app)
-   
-
-   
-
-
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1012043502504386581/1225037386518630443/flor.png?ex=664d27b9&is=664bd639&hm=f6e1ef91054493e2786cff0f0746cdd639ca9c29a51d77d3da6746c70183c709&"  />
 <div align="center">
   
