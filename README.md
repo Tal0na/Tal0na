@@ -85,7 +85,7 @@
 
 <div align="center">
   
-<h3 color = EE82EE>Playing on Spotify: </h3>
+### Playing on Spotify
 
   
 <a href="https://talonacosta.vercel.app/Links" target="_blank">
@@ -104,8 +104,7 @@
 
 <div align="center">
 
-<h3 color = EE82EE> Stats: </h3>
-
+### Stats:
 
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTal0na&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
 
