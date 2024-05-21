@@ -2,13 +2,13 @@
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=864CF7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Talona;I'm+a+Software+engineer;I'm+from+Brasil;I'm+20+years+old;I+like+flowers)](https://talonacosta.vercel.app/Links) 
 
-
- 
-### [Visit my Website🌺](https://talonacosta.vercel.app)
-   
  </div> 
+ 
+# [Visit my Website🌺](https://talonacosta.vercel.app)
    
----
+
+   
+
 
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1012043502504386581/1225037386518630443/flor.png?ex=664d27b9&is=664bd639&hm=f6e1ef91054493e2786cff0f0746cdd639ca9c29a51d77d3da6746c70183c709&"  />
 <div align="center">
@@ -81,11 +81,11 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 </div>
 
----
+
 
 <div align="center">
   
-### Playing on Spotify
+# Playing on Spotify
 
   
 <a href="https://talonacosta.vercel.app/Links" target="_blank">
@@ -100,11 +100,10 @@
 </a >
 </div>
 
----
 
 <div align="center">
 
-### Stats:
+# My Stats in Github
 
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTal0na&s=40&c=5700ae&bg=00000000&no=7&ff=electrolize&tb=Visits%3A++&ta=" alt="visits "></p>
 
@@ -119,8 +118,6 @@
 </div>
 
 ###
-
-
 
 <a href="https://talonacosta.vercel.app/">
   <picture>
