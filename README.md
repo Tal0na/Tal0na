@@ -8,7 +8,7 @@
    
  </div> 
    
-##
+---
 
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1012043502504386581/1225037386518630443/flor.png?ex=663220f9&is=661fabf9&hm=6ae7b4498b1183c32ab5fd8caeda29da820d9e1d2ae51e255087936a91d329af&"  />
 <div align="center">
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 </div>
 
-##
+---
 
 <div align="center">
   
@@ -100,7 +100,7 @@
 </a >
 </div>
 
-##
+---
 
 <div align="center">
 
