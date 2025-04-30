@@ -46,18 +46,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:talonacontato@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@talona_/)
 
----
-
-<div align="center">
-  
-### Playing on Spotify
-
-<a href="https://talonacosta.vercel.app/Links" target="_blank">
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12184323470)
-
-</a >
-</div>
 
 ---
 
