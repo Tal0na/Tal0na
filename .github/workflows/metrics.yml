@@ -12,7 +12,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           user: Tal0na
           token: ${{ secrets.GITHUB_TOKEN }}
