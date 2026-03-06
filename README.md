@@ -5,7 +5,7 @@
 ### [Visit my Website🌺](https://talona.vercel.app)
 
  </div> 
-
+![Metrics](./github-metrics.svg)
 ---
  
 <img align="right" height="150" src="https://i.imgur.com/JJYGpJT.png"  />
