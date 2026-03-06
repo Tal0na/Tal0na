@@ -1,12 +1,16 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
