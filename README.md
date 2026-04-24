@@ -2,7 +2,8 @@
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3500&color=ee2748&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tales;I'm+a+Software+developer;I'm+from+Brasil;I'm+22+years+old;I+like+flowers)](https://talona.vercel.app/Links) 
 
-### [Visit my Website](https://talona.vercel.app)
+## <a href="https://talona.vercel.app" style="color: #ee2748;">Visit my Website</a>
+
 
  </div> 
 
