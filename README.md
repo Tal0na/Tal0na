@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3500&color=ee2748&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tales;I'm+a+Software+developer;I'm+from+Brazil;I'm+22+years+old;I+like+flowers)](https://talona.com.br)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3500&color=ee2748&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tales;I'm+a+Software+developer;I'm+from+Brazil;I'm+22+years+old;I+like+flowers)](https://dev.talona.com.br)
 
-[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-ee2748?style=for-the-badge)](https://talona.com.br)
+[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-ee2748?style=for-the-badge)](https://dev.talona.com.br)
 
 </div>
 
